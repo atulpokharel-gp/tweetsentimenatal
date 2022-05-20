@@ -7,6 +7,8 @@ https://www.kaggle.com/datasets/kazanova/sentiment140/download
 
 keep all file in one file so taht pd.readcsv(location of kaggle download data )
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 pip install wordcloud
 
 and 
